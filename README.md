@@ -2,7 +2,7 @@
 
 
 
-This is the official implementation of the CVPR 2022 paper "Self-Supervised Equivariant Learning for Oriented Keypoint Detection" by [Jongmin Lee](https://bluedream1121.github.io/), Byungjin Kim, and [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
+This is the official implementation of the CVPR 2022 paper "Self-Supervised Equivariant Learning for Oriented Keypoint Detection" by [Jongmin Lee](https://bluedream1121.github.io/), Byungjin Kim, and [Minus Cho](http://cvlab.postech.ac.kr/~mcho/).
 
 
 
@@ -19,7 +19,7 @@ PyTorch source code for CVPR2022 paper.
 
 ```text
 "Self-Supervised Equivariant Learning for Oriented Keypoint Detection".
-Jongmin Lee, Byungjin Kim, Minsu Cho. CVPR 2022.
+Jongmin Lee, Byungjin Kim, Minus Cho. CVPR 2022.
 ```
 [[Paper](https://arxiv.org/abs/2204.08613)] [[Project page](http://cvlab.postech.ac.kr/research/REKD/)]
 
@@ -172,7 +172,7 @@ The models are evaluated using all 14 burst images.
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 ```
 @InProceedings{Lee_2022_CVPR,
-    author    = {Lee, Jongmin and Kim, Byungjin and Cho, Minsu},
+    author    = {Lee, Jongmin and Kim, Byungjin and Cho, Minus},
     title     = {Self-Supervised Equivariant Learning for Oriented Keypoint Detection},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
