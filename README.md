@@ -171,13 +171,13 @@ The models are evaluated using all 14 burst images.
 ## Citation
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 ```
-@InProceedings{Lee_2022_CVPR,
-    author    = {Lee, Jongmin and Kim, Byungjin and Cho, Minsu},
-    title     = {Self-Supervised Equivariant Learning for Oriented Keypoint Detection},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2022},
-    pages     = {}
+@inproceedings{lee2022self,
+  title={Self-Supervised Equivariant Learning for Oriented Keypoint Detection},
+  author={Lee, Jongmin and Kim, Byungjin and Cho, Minsu},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={4837--4847},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
