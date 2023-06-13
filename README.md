@@ -118,8 +118,6 @@ You can download the pretrained weights [[best models](https://postechackr-my.sh
 
 Results on HPatches all variations. `*' denotes the results with outlier filtering using the orientation. We use [HardNet](https://github.com/DagnyT/hardnet) descriptor for evaluation.
 
-The models are evaluated using all 14 burst images.
-
 |          Model         |  Repeatability | MMA@3 | MMA@5 |  pred. match. |                                            Links                       | Notes                    |
 |:----------------------:|:-----:|:-------:|:-----:|:-------:|:-------------------------------------------------------------------------------------------:|--------------------------|
 | CVPR2022               | 57.6 | 73.1   | 79.6 | 505.8 | -                                                                                           | CVPR2022 results         |
@@ -142,8 +140,6 @@ python eval_with_extract.py --load_dir trained_models/release_group36_f2_s2_t2.l
 
 Results on HPatches  viewpoint variations. `*' denotes the results with outlier filtering using the orientation. We use [HardNet](https://github.com/DagnyT/hardnet) descriptor for evaluation.
 
-The models are evaluated using all 14 burst images.
-
 |          Model         |  Repeatability | MMA@3 | MMA@5 |  pred. match. |    Notes                    |
 |:----------------------:|:-----:|:-------:|:-----:|:-------:|:--------------------------|
 | REKD_release | 59.1 |  72.5  |  78.7   |  464.9  | Official retrained model |
@@ -157,7 +153,6 @@ The models are evaluated using all 14 burst images.
 
 Results on HPatches illumination variations. `*' denotes the results with outlier filtering using the orientation. We use [HardNet](https://github.com/DagnyT/hardnet) descriptor for evaluation.
 
-The models are evaluated using all 14 burst images.
 
 |          Model         |  Repeatability | MMA@3 | MMA@5 |  pred. match. |    Notes                    |
 |:----------------------:|:-----:|:-------:|:-----:|:-------:|:--------------------------|
